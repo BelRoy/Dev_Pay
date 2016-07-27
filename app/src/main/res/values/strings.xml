@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dev Pay</string>
+    <string name="amount">Часы</string>
+    <string name="ten">10</string>
+    <string name="fifteen">15</string>
+    <string name="twenty">20</string>
+    <string name="percent">0</string>
+    <string name="custom_tip_percentage">Ячейки</string>
+    <string name="tip">Парсер</string>
+    <string name="total">Счёт</string>
+    <string name="tap">Счёт</string>
+</resources>
